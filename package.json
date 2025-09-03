@@ -1,0 +1,42 @@
+{
+  "name": "job-hunt-react-mui-tailwind",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo \"Add ESLint if needed\""
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.5.0",
+    "@mui/material": "^6.0.0",
+    "aos": "^2.3.4",
+    "clsx": "^2.1.0",
+    "framer-motion": "^12.23.12",
+    "lottie-react": "^2.4.1",
+    "react": "^18.3.1",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.3.1",
+    "react-lottie": "^1.2.10",
+    "react-lottie-player": "^2.1.0",
+    "react-parallax-tilt": "^1.7.307",
+    "react-router-dom": "^6.26.1",
+    "react-scroll-parallax": "^3.4.5",
+    "react-slick": "^0.31.0",
+    "react-tsparticles": "^2.12.2",
+    "react-typed": "^2.0.12",
+    "slick-carousel": "^1.8.1",
+    "tsparticles": "^3.9.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.4.1"
+  }
+}
