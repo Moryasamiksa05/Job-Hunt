@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "echo \"Add ESLint if needed\"",
-     "postinstall": "chmod +x node_modules/.bin/vite"
+    "postinstall": "chmod +x node_modules/.bin/vite"
   },
   "dependencies": {
     "@emotion/react": "^11.13.0",
@@ -22,6 +22,7 @@
     "react": "^18.3.1",
     "react-countup": "^6.5.3",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
     "react-lottie": "^1.2.10",
     "react-lottie-player": "^2.1.0",
     "react-parallax-tilt": "^1.7.307",
