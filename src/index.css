@@ -8,13 +8,11 @@
 
 /* ===== GLOBAL BACKGROUND WITH IMAGE + WATER GLASS EFFECT ===== */
 body {
-  /* Background image */
-  background: url("/src/assets/web-bg.jpg") no-repeat center center fixed;
+  background: url("/web-bg.jpg") no-repeat center center fixed;
   background-size: cover;
   position: relative;
   min-height: 100vh;
   overflow-x: hidden;
-
 }
 
 

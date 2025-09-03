@@ -7,7 +7,7 @@ import Box from "@mui/material/Box";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
-import { FaSomeIcon } from "react-icons/fa";
+// import { FaSomeIcon } from "react-icons/fa";
 
 export default function Footer() {
   return (
